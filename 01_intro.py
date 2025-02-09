@@ -6,9 +6,12 @@ print("Hola mundo")
 Este es un comentario
 en varias
 líneas 
+
+Para nombrar variable se usa snake
+
 """
 
-#Tipos de datoss
+#Tipos de datos
 
 """
 Number: enteros, decimales, complejos
@@ -28,4 +31,13 @@ print(type(True)) #Bool
 print(type(-5)) #entero
 print(type(-5+1j)) #complex
 
+"""
+PyCharm
+
+Interprete REPL
+(READ, EVALUATE,PRINT,LOOP)
+
+
+
+"""
 

@@ -18,6 +18,9 @@ Deben contener elementos del mismo tipo.
 Ofrecen operaciones matemáticas y de álgebra lineal rápidas y eficientes.
 Consumen menos memoria y son más rápidos para grandes conjuntos de datos numéricos en comparación con las listas.
 """
+
+#Definición de una lista
+my1_list=[]
 my_list=list()
 #               0  1  2    3
 my_other_list=[20,18,32,"Valeria"]
