@@ -5,7 +5,7 @@
 cantidad_productos=int(input('¿Cuántos productos va a comprar?'))
 productos=[]
 
-for i in range(cantidad_productos):
+for i in range(0,cantidad_productos):
     nombre_producto=input(f"¿Cuàl es el nombre del producto {i+1}? ")
     precio_producto=float(input(f"¿Cuàl es el precio del producto {i+1}"))
     cantidad_producto=int(input(f"¿Cuàl es la cantidad del producto {i+1}"))

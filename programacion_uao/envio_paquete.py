@@ -18,6 +18,7 @@ def main():
 
 
 def Calcular_Costo_Peso(peso):
+    """Calcula el costo según el peso"""
     costo_peso=5
     if(peso>5):
         costo_peso+=10
